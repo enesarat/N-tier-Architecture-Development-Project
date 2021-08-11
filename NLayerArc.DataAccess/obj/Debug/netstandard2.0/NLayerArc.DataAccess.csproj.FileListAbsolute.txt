@@ -1,0 +1,12 @@
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\bin\Debug\netstandard2.0\NLayerArc.DataAccess.deps.json
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\bin\Debug\netstandard2.0\NLayerArc.DataAccess.dll
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\bin\Debug\netstandard2.0\NLayerArc.DataAccess.pdb
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\bin\Debug\netstandard2.0\NLayerArc.Entities.dll
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\bin\Debug\netstandard2.0\NLayerArc.Entities.pdb
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.AssemblyInfo.cs
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.csproj.CopyComplete
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.dll
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.DataAccess\obj\Debug\netstandard2.0\NLayerArc.DataAccess.pdb

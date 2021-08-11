@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEofL1ww+mnKXl73J9lAyidJ4gTJ0D9J6UZA7quEHB7Kd/Fh9TnMHNzzlSllyi2+sAu0Gvk57SFeUXds+EgHoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enes\\Desktop\\C#\\c#\\katmanlı mimari\\NLayerArc.Entities\\NLayerArc.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Enes\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

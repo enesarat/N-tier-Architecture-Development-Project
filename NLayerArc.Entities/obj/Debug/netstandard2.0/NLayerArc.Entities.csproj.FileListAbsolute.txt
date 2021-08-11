@@ -1,0 +1,9 @@
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\bin\Debug\netstandard2.0\NLayerArc.Entities.deps.json
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\bin\Debug\netstandard2.0\NLayerArc.Entities.dll
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\bin\Debug\netstandard2.0\NLayerArc.Entities.pdb
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\obj\Debug\netstandard2.0\NLayerArc.Entities.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\obj\Debug\netstandard2.0\NLayerArc.Entities.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\obj\Debug\netstandard2.0\NLayerArc.Entities.AssemblyInfo.cs
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\obj\Debug\netstandard2.0\NLayerArc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\obj\Debug\netstandard2.0\NLayerArc.Entities.dll
+C:\Users\Enes\Desktop\C#\c#\katmanlı mimari\NLayerArc.Entities\obj\Debug\netstandard2.0\NLayerArc.Entities.pdb
